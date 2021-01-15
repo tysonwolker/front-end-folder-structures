@@ -33,7 +33,7 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-url]: https://github.com/tysonwolker/front-end-folder-structures/graphs/contributors
 [forks-url]: https://github.com/tysonwolker/front-end-folder-structures/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/tysonwolker/front-end-folder-structures.svg?style=for-the-badge
 [stars-url]: https://github.com/tysonwolker/front-end-folder-structures/stargazers
 [issues-url]: https://github.com/tysonwolker/front-end-folder-structures/issues
 [license-url]: https://github.com/tysonwolker/front-end-folder-structures/blob/master/LICENSE.txt
