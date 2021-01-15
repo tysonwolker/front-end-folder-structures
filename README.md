@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Folder Structures for front-end</h3>
+  <h3 align="center">Folder Structures for Front-end</h3>
 
   <p align="center">
     Examples of all the different variations you can use when building a front-end application catering for projects of all sizes.
